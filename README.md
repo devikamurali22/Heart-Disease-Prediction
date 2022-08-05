@@ -2,7 +2,7 @@
 
 ### About:
 
-Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives.
+Heart disease is the number one cause of death worldwide, so if you're looking to use data science for good you've come to the right place. To learn how to prevent heart disease we must first learn to reliably detect it.
 
 *	About 610,000 people die of heart disease in the United States every year–that’s 1 in every 4 deaths.
 *	Heart disease is the leading cause of death for both men and women. More than half of the deaths due to heart disease in 2009 were in men.
@@ -31,4 +31,10 @@ There are 14 columns in the dataset, where the patient_id column is a unique and
 *	age (type: int): age in years
 *	max_heart_rate_achieved (type: int): maximum heart rate achieved (beats per minute)
 *	exercise_induced_angina (type: binary): exercise-induced chest pain (0: False, 1: True)
+
+
+### Inspiration
+
+Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives.
+
 
